@@ -5,7 +5,7 @@
 2. Blue Mushroom
 3. 烏龜殼
 
-## 規則介紹
+## Detail
 ### 掉落物
 - Red Mushroom: 如下圖左方，為一般障礙物，會隨著時間進行而變大。
 
