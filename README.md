@@ -9,13 +9,18 @@
 ### 掉落物
 - Red Mushroom: 如下圖，為一般障礙物，會隨著時間進行而變大。
 
-![image key](./mushroom.png)
+
+
 - Blue Mushroom: 如下圖，收集滿5個Blue Mushroom即可使用技能。
 
-![image key](./b_mushroom.png)
+
+
 - Turtle: 如下圖，當接觸到Turtle，遊戲立即結束。
 
-![image key](./turtle.png)
+<img src="./mushroom.png" width = "100" height = "100" />
+<img src="./b_mushroom.png" width = "100" height = "100" />
+<img src="./turtle.png" width = "100" height = "100" />
+
 
 ### 技能
 收集滿5個藍色香菇即可使用技能，當收集完成時
