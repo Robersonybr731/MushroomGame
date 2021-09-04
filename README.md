@@ -8,10 +8,13 @@
 ## 規則介紹
 ### 掉落物
 - Red Mushroom: 如下圖，為一般障礙物，會隨著時間進行而變大。
+
 ![image key](./mushroom.png)
 - Blue Mushroom: 如下圖，收集滿5個Blue Mushroom即可使用技能。
+
 ![image key](./b_mushroom.png)
 - Turtle: 如下圖，當接觸到Turtle，遊戲立即結束。
+
 ![image key](./turtle.png)
 
 ### 技能
@@ -21,6 +24,7 @@
 
 ### 快捷鍵
 - 如下圖，按下R按鍵，即可查看目前挑戰著挑戰時間最長紀錄，並且遊戲將會暫停。
+
 ![image key](./img/record.png)
 
 ## Build Process
