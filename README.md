@@ -5,16 +5,23 @@
 2. Blue Mushroom
 3. Turtle
 
-## Usage
-### 掉落物介紹
-- Red Mushroom: 為一般障礙物，會隨著時間進行而變大。
-- Blue Mushroom: 收集滿5個Blue Mushroom即可使用技能。
-- Turtle: 當接觸到Turtle，遊戲立即結束。
+## 規則介紹
+### 掉落物
+- Red Mushroom: 如下圖，為一般障礙物，會隨著時間進行而變大。
+![image key](./mushroom.png)
+- Blue Mushroom: 如下圖，收集滿5個Blue Mushroom即可使用技能。
+![image key](./b_mushroom.png)
+- Turtle: 如下圖，當接觸到Turtle，遊戲立即結束。
+![image key](./turtle.png)
 
 ### 技能
 收集滿5個藍色香菇即可使用技能，當收集完成時
-- 按下A按鍵即可觸發減少Red Mushroom的數量。
-- 按下S按鍵即可讓隨著遊戲進行而變大的Red Mushroom返回原本的大小。
+- 按下A按鍵，即可觸發減少Red Mushroom的數量。
+- 按下S按鍵，即可讓隨著遊戲進行而變大的Red Mushroom返回原本的大小。
+
+### 快捷鍵
+- 如下圖，按下R按鍵，即可查看目前挑戰著挑戰時間最長紀錄，並且遊戲將會暫停。
+![image key](./img/record.png)
 
 ## Build Process
 - 輸入執行指令:
