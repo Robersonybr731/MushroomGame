@@ -48,6 +48,28 @@
 </div>
 
 ## Build Process
+- 環境建置
+1. 找到Java jdk的位置，並複製其位置路徑。
+
+<div align="center">
+<img src="./img/path.png" width = "75%" />
+</div>
+
+2. 本機 -> 右鍵點選內容 -> 進階系統設定 -> 環境變數
+
+<div align="center">
+<img src="./img/env.png" width = "75%" />
+</div>
+
+3. 點選上方方格內的Path -> 編輯 ->新增Step1複製的路徑 
+(ex:Program Files\Java\jdk-9.0.4\bin)
+
+<div align="center">
+<img src="./img/addjava.png" width = "75%" />
+</div>
+
+4. 按確定後 -> 重開CMD
+
 - 輸入執行指令:
   ``` bash
   $ javac Project_pro.java
