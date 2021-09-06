@@ -1,8 +1,8 @@
 # MushroomGame
+本次專案是利用Java開發一個Mushroom遊戲。
 ## Introduction
-本次專案是利用Java開發一個Mushroom小遊戲，使用左右方向鍵進行移動。
 
-遊戲中會有許多掉落物，並且掉落速度會隨著遊戲時間進行而增快，掉落物分為以下幾項:
+遊戲中按下左右方向鍵進行移動，並且會有許多掉落物，掉落速度會隨著遊戲時間進行而變快，掉落物分為以下幾項:
 1. Red Mushroom
 2. Blue Mushroom
 3. 烏龜殼
