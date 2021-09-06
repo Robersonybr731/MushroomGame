@@ -74,7 +74,9 @@
 
 ### 輸入執行指令:
   ``` bash
+  # Compile Program
   $ javac Project_pro.java
-  
+
+  # Execute Game
   $ java Project_pro
   ```
