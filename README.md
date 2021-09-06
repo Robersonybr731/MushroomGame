@@ -50,7 +50,7 @@
 </div>
 
 ## Build Process
-- 環境建置
+### 環境建置
 1. 找到Java jdk的位置，並複製其位置路徑。
 
 <div align="center">
@@ -72,8 +72,9 @@
 
 4. 按確定後 -> 重開CMD
 
-- 輸入執行指令:
+### 輸入執行指令:
   ``` bash
   $ javac Project_pro.java
+  
   $ java Project_pro
   ```
