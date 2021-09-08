@@ -29,27 +29,27 @@
 收集滿5個藍色香菇即可使用技能，當收集完成時
 - 按下A按鍵，即可觸發減少Red Mushroom的數量。
 <div align="center">
-<img src="./img/downnum1.gif" width = "75%" />
+<img src="./img/downnum1.gif" width = "50%" />
 </div>
 
 - 按下S按鍵，即可讓隨著遊戲進行而變大的Red Mushroom返回原本的大小。
 
 <div align="center">
-<img src="./img/downsize1.gif" width = "75%" />
+<img src="./img/downsize1.gif" width = "50%" />
 </div>
 
 ### 快捷鍵
 - 如下圖，按下R按鍵，即可查看目前挑戰著挑戰時間最長紀錄，並且遊戲將會暫停。
 
 <div align="center">
-<img src="./img/record.png" width = "75%" />
+<img src="./img/record.png" width = "50%" />
 </div>
 
 ### 遊戲結束
 - 當碰到烏龜殼時，遊戲立即結束，並且會記錄ID及挑戰持續時間到資料庫。
 
 <div align="center">
-<img src="./img/over.png" width = "75%" />
+<img src="./img/over.png" width = "50%" />
 </div>
 
 ## Usage
@@ -57,20 +57,20 @@
 1. 找到Java jdk的位置，並複製其位置路徑。
 
 <div align="center">
-<img src="./img/path.png" width = "75%" />
+<img src="./img/path.png" width = "50%" />
 </div>
 
 2. 本機 -> 右鍵點選內容 -> 進階系統設定 -> 環境變數
 
 <div align="center">
-<img src="./img/env.png" width = "75%" />
+<img src="./img/env.png" width = "50%" />
 </div>
 
 3. 點選上方方格內的Path -> 編輯 ->新增Step1複製的路徑 
 (ex:Program Files\Java\jdk-9.0.4\bin)
 
 <div align="center">
-<img src="./img/addjava.png" width = "75%" />
+<img src="./img/addjava.png" width = "50%" />
 </div>
 
 4. 按確定後 -> 重開CMD
