@@ -19,9 +19,9 @@
 - 烏龜殼: 如下圖右方，當接觸到烏龜殼，遊戲立即結束。
 
 <div style="float:left;border:solid 1px 000;margin:2px;">
-<img src="./mushroom.png" width = "100" height = "100" />
-<img src="./b_mushroom.png" width = "100" height = "100" />
-<img src="./turtle.png" width = "100" height = "100" />
+<img src="./mushroom.png" width = "68" />
+<img src="./b_mushroom.png" width = "75" />
+<img src="./turtle.png" width = "75"/>
 </div>
 
 
